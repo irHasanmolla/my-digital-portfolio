@@ -4,8 +4,8 @@ const Common = () => {
   return (
     <div>
       <p>Common</p>
-      <p>common2</p>
-      <p>common3</p>
+      <p>common222222223</p>
+      <p>common222222223</p>
     </div>
   )
 }
