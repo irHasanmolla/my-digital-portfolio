@@ -5,6 +5,7 @@ const Common = () => {
     <div>
       <p>Common</p>
       <p>common2</p>
+      <p>common3</p>
     </div>
   )
 }
