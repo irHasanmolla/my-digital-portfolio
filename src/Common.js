@@ -2,7 +2,10 @@ import React from 'react'
 
 const Common = () => {
   return (
-    <div>Common</div>
+    <div>
+      <p>Common</p>
+      <p>common2</p>
+    </div>
   )
 }
 
