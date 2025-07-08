@@ -1,9 +1,9 @@
-import Common from "./Common"
+import ResumeOriginal from "./ResumeOriginal"
 
 
 const App = () => {
   return (
-    <Common />
+    <ResumeOriginal />
   )
 }
 
