@@ -1,5 +1,6 @@
 {
   "name": "my-digital-portfolio",
+  "homepage": "https://irHasanmolla.github.io/my-digital-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -40,6 +41,5 @@
   },
   "devDependencies": {
     "gh-pages": "^6.3.0"
-  },
-  "homepage": "https://irHasanmolla.github.io/my-digital-portfolio",
+  }
 }
